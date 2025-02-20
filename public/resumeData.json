@@ -1,0 +1,388 @@
+{
+    "main": {
+      "name": "Francis Marianne Herrera",
+      "occupation": "QA & UI/UX Designer",
+      "description": "Designing and programming are my constant companions, my passions, and my areas of expertise",
+      "image": "profilepic.png",
+      "bio": "Resourceful QA and UI/UX Designer with a proven track record in crafting intuitive designs and seamless user experiences. Skilled in Figma, Adobe XD, and Cypress, with a keen ability to learn new technologies and troubleshoot complex issues.",
+      "contactmessage": "Get in touch with me if you are interested!",
+      "email": "herrerafrancismarianne@gmail.com",
+      "phone": "+63 9057171997",
+      "address": {
+        "street": "624, Quirino Highway, Bagbag, Novaliches",
+        "city": "Quezon City",
+        "state": "Philippines",
+        "zip": "1116"
+      },
+      "website": "/",
+      "resumedownload": "/resume.pdf",
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/herrera-francis-marianne-b7b5b7265/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/chinnikoo",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "My Software Development Skills",
+      "education": [
+        {
+          "school": "Quezon City University - Philippines",
+          "degree": "Bachelor's Degree, Information Technology",
+          "graduated": "2018 - 2022",
+          "description": "1st Place in Extemporaneous Speech 2019"
+        }
+      ],
+      "work": [
+        {
+          "company": "P&A Grant Thornton (Hybrid)",
+          "title": "IT Compliance Officer",
+          "years": "August 2023 - Present",
+          "description": [
+            "Regulatory Compliance that ensures the organization complies the laws such as GDPR.", 
+            "Experienced in client engagement (GT Thailand and GT Singapore)",
+            "NIST Framework (GCCR)",
+            "Policy Procedure and Development"
+          ]
+        },
+        {
+            "company": "P&A Grant Thornton (Hybrid)",
+            "title": "Quality Assurance Tester",
+            "years": "April 2023 - August 2023",
+            "description": [
+                "Regression testing with the team.", 
+                "Testing from test environments to production (Manual testing)",
+                "Test planning that outlines how the testing will be carried out.",
+                "Bug Identification and Reporting",
+                "Test Execution"
+            ]
+        },
+        {
+            "company": "Accenture (Hybrid)",
+            "title": "Associate Software Engineer",
+            "years": "July 2022 - Feb 2023",
+            "description": [
+                "Working with the wider development team in Australia (client).", 
+                "Salesforce developer in Macquarie (client).",
+                "Unit testing of applications and development."
+            ]
+        }
+      ],
+      "skills": [
+        {
+          "name": "Figma",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        },
+        {
+          "name": "HTML5",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+        },
+        {
+          "name": "CSS3",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+        },
+        {
+          "name": "SASS",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+        },
+        {
+          "name": "JavaScript",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+        },
+        {
+          "name": "jQuery",
+          "img": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+        },
+        {
+          "name": "TypeScript",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+        },
+        {
+          "name": "React JS",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+        },
+        {
+          "name": "Redux",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
+        },
+        {
+          "name": "Vue JS",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+        },
+        {
+          "name": "Node JS",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+        },
+        {
+          "name": "Express JS",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
+        },
+        {
+          "name": "MongoDB",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+        },
+        {
+          "name": "MySQL",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+        },
+        {
+          "name": "GraphQL",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
+        },
+        {
+          "name": "PHP",
+          "img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+        },
+        {
+          "name": "Git",
+          "img": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Youtube Redesign",
+          "description": "When I was in college, I took on my first project. I signed up for a Web Development course at Tesda because I really love programming and wanted to boost my skills. My goal is to land an awesome job once I graduate!",
+          "struggle": "During my busy school days, Tesda presented an exciting challenge: build a project using JavaScript and HTML. They wanted an app that shows off JavaScript's Object-Oriented Programming and APIs. I saw this as a cool chance to flex my coding skills in a real-world setting.",
+          "solution": "I decided to impress my Tesda professor by creating a standout app. I brainstormed ideas, debating between a food market or a YouTube redesign web app. After some research, I settled on using the YouTube API and got to work. Despite facing numerous challenges—especially since it was my first time coding with JavaScript and APIs—I persevered. Even during late nights, I remained determined to crack the code. With careful planning and relentless effort, my project started taking shape, and I was thrilled with how it turned out. After presenting my project, I received my certificate. A few days later, some of my professor's students approached me. They recommended that I apply for a JavaScript developer position in Makati.",
+          "technologies": "HTML, CSS, JavaScript, Netlify",
+          "category": "Personal Work",
+          "image": "ytredesign.png",
+          "url": "https://ytredesign.netlify.app/",
+          "year": "January 2021"
+        },
+        {
+          "title": "GetVibes",
+          "description": "This marks my second course at Tesda as I strive to master both frontend and backend programming. The Web Development course surpassed my expectations, leading to a job offer. Motivated by this success, I enrolled in the Creative Web Design course at Tesda. I'm excited to delve deeper into design, especially for a music app project similar to Spotify, focusing more on the aesthetics rather than backend coding.",
+          "struggle": "Their ultimate aim was for us to create a top-notch website using tools like HTML, CSS, and MaterialCSS, to gauge our understanding of their teachings. However, during the website development process, I faced several challenges. These included ensuring responsive design to fit various devices, tackling compatibility issues across different browsers, and ensuring smooth functionality across diverse platforms.",
+          "solution": "To tackle these challenges, I took a multi-pronged approach. Firstly, I implemented different screen sizes to ensure responsiveness across all devices. Secondly, I utilized Figma to create wireframes for my design, meticulously crafting layouts for mobile, tablet, and desktop. Lastly, I applied fundamental design principles such as color theory and spacing to enhance the visual appeal and user experience of the website.",
+          "technologies": "HTML, CSS, MaterializeCSS, Undraw, Netlify",
+          "category": "Personal Work",
+          "image": "getvibes.png",
+          "url": "https://getvibesv2.netlify.app/",
+          "year": "February 2021"
+        },
+        {
+          "title": "JTDV Payroll",
+          "description": "During my college years in Information Technology, our capstone project was the JTDV Payroll System, a comprehensive solution aimed at revolutionizing company operations. Motivated by the goal of enhancing productivity and efficiency, we crafted a versatile system that went beyond traditional payroll management. Equipped with CRUD functionality and attendance monitoring, it addressed key organizational needs such as leave management, employee tracking, and incident logging. Tailored for hypothetical company JTDV, our system provided insights into user activities and offered various features to streamline daily operations. It was a culmination of our dedication to leveraging technology to drive positive change in the workplace.",
+          "struggle": "As the project manager overseeing our capstone project, I faced several challenges in ensuring the successful completion of both the coding and documentation aspects. Firstly, coordinating the team's efforts to meet coding milestones proved to be a daunting task. Balancing the allocation of coding tasks, debugging sessions, and integration testing required meticulous planning and effective communication. Additionally, managing the documentation aspect posed its own set of challenges. Ensuring that all project documentation, including design specifications, user manuals, and technical reports, was accurate, comprehensive, and submitted on time demanded considerable attention to detail and organizational skills. Moreover, navigating the dynamic nature of software development, where requirements may evolve, deadlines may shift, and unforeseen technical issues may arise, added another layer of complexity to my role as a project manager. Overcoming these challenges while maintaining team morale and cohesion emerged as a priority, requiring adaptability, problem-solving skills, and effective leadership.",
+          "solution": "As the project manager, I adopted a systematic approach to address the challenges we encountered in our capstone project. Firstly, recognizing the diverse skill sets within the team, I strategically divided tasks based on individual strengths and expertise. This ensured that each team member could contribute effectively, whether they excelled in coding or documentation. To streamline the development process, I meticulously planned every aspect, from the design process to the system's flow and scope. By outlining clear objectives and delegating specific responsibilities, I fostered a sense of ownership and accountability among team members. To kickstart the project, we began with the creation of wireframes using Figma and designed the database structure using an ERD (Entity Relationship Diagram). This laid a solid foundation, enabling us to visualize the system's architecture and data flow. Recognizing the importance of both design and functionality, I segregated tasks to focus on each aspect separately. This allowed for a more efficient workflow, with team members able to concentrate on their respective areas of expertise. Moreover, to ensure steady progress, I implemented daily task assignments, setting achievable milestones to track our progress. This not only kept the team motivated but also ensured that we were making tangible progress towards our goal each day. By maintaining open communication channels and providing regular feedback, I fostered a collaborative environment where ideas could be freely exchanged, and challenges addressed collectively. In dealing with different personalities within the team, I adopted a flexible leadership approach. By understanding each team member's strengths, weaknesses, and preferences, I was able to tailor my management style accordingly. Whether it was providing additional support and guidance to less experienced developers or empowering seasoned coders to take the lead on complex tasks, I ensured that everyone felt valued and supported in their roles. Overall, through meticulous planning, effective delegation, and adaptive leadership, we successfully navigated the challenges of our capstone project, culminating in the development of the JTDV Payroll System.",
+          "technologies": "PHP, Composer, MySQL, JavaScript, SASS",
+          "category": "Personal Work",
+          "image": "jtdvsystem.png",
+          "url": "https://jtdv-payroll.000webhostapp.com/login.php",
+          "year": "January 2022"
+        },
+        {
+          "title": "Bizup",
+          "description": "After I graduated, I plan to showcase my projects by creating this portfolio and new upcoming projects that I can add on. One of the project I've built is this Bizup Website. This project is a test for me that I needed to complete to pass the interview and land a job.",
+          "struggle": "My assignment was to recreate the design of a lengthy landing page using ReactJS, and I had only one day to complete the task. The challenge involved replicating numerous sections of the original website, ensuring that each element and layout detail was faithfully recreated within the constraints of the ReactJS framework.",
+          "solution": "My approach was to organize the design into components, ensuring a neat and structured layout when compiling them within each section. I focused on making it responsive, ensuring it looked great on all modern browsers and devices. I also ensured that the project was well-organized by placing styles, components, and images into their respective folders. This helped streamline the development process and maintain clarity throughout the project.",
+          "technologies": "HTML, CSS, ReactJS, SASS, Material Icons",
+          "category": "Personal Work",
+          "image": "bizup.png",
+          "url": "https://bizupp.netlify.app/",
+          "year": "August 2022"
+        }, 
+        {
+          "title": "Shoppy",
+          "description": "Shoppy is a project I developed using ReactJS, TailwindCSS, and Syncfusion. It features various sections, including an Orders Page, Users Page, Customers Page, a Calendar similar to Outlook/Teams, a Kanban board like a sprint board, a WYSIWYG Editor, a Color Picker, and a range of charts such as line, area, bar, pie, financial, color mapping, pyramid, and stacked. The project is fully responsive for mobile devices and includes customizable themes.",
+          "struggle": "One of the challenges I faced while developing Shoppy was managing the state across multiple components, especially with complex data interactions in sections like the Calendar, Kanban board, and various charts. Ensuring seamless data flow and synchronization across these components was critical for maintaining a responsive and intuitive user experience.",
+          "solution": "To tackle this issue, I utilized Context Provider for global state management. This approach allowed me to maintain consistent data flow and simplify state updates across the entire application. Additionally, I organized the folder structure meticulously, creating separate folders for components, pages, contexts, and data. This organization improved the maintainability and scalability of the codebase, making it easier to manage and develop new features.",
+          "technologies": "ReactJS, TailwindCSS, Syncfusion, Netlify",
+          "category": "Personal Work",
+          "image": "storey.png",
+          "url": "https://storeydesg.netlify.app/",
+          "year": "June 2022"
+        },
+        {
+          "title": "Kiko Store",
+          "description": "Kiko Store is an eCommerce project designed to display sellers' products, highlight items on sale, and allow buyers to add products to their cart. It includes options for product variations, such as color choices for a headset, as well as product ratings and detailed descriptions. This project utilizes a fullstack technology stack, with NextJS for both the frontend and backend, SanityIO for the database, Stripe for the payment gateway, and Vercel for hosting. I created this project to test and showcase my fullstack development skills, and it turned out exceptionally well, with no issues encountered.",
+          "struggle": "While developing Kiko Store, one significant challenge was integrating multiple technologies seamlessly. Ensuring smooth communication between NextJS for the frontend and backend, SanityIO for the database, Stripe for payments, and Vercel for hosting required careful coordination. Managing these integrations while maintaining optimal performance and security was critical.",
+          "solution": "To address this, I focused on a modular approach and thorough testing. I used NextJS's built-in API routes to handle backend processes efficiently and integrated SanityIO with well-structured queries to manage and fetch product data. For Stripe, I implemented secure payment processing workflows and tested them rigorously. Additionally, I organized the codebase into clear, separate modules for components, pages, contexts, and utilities. This organization not only streamlined development but also enhanced maintainability and scalability. Using Vercel for hosting ensured smooth deployment and scalability of the application. Through these strategies, I achieved a robust and efficient eCommerce platform.",
+          "technologies": "HTML, CSS, NextJS, SanityIO, Stripe, Vercel",
+          "category": "Personal Work",
+          "image": "kikostore.png",
+          "url": "https://ecommerce-sanity-stripe-eight-bice.vercel.app/",
+          "year": "July 2022"
+        },
+        {
+          "title": "Facebook Clone",
+          "description": "Finding myself frequently using Facebook to stay connected with relatives and friends and keep updated on their life achievements, I decided to create my own Facebook-like platform. Leveraging Next.js for both frontend and backend development, I integrated Facebook Login API to allow users to log in using their Facebook credentials. Additionally, I utilized Heroicons for website icons. This project enables users to create posts with titles and images, incorporating their Facebook profile photo and name.",
+          "struggle": "During the development of my Facebook-like platform, I encountered several challenges, one of which was ensuring seamless integration with the Facebook Login API. Handling user authentication and securely managing user data presented complexities, especially when synchronizing profile information such as photos and names from Facebook to my platform. Additionally, maintaining a consistent and appealing user interface with Heroicons while ensuring scalability posed another obstacle.",
+          "solution": "To address the challenges, I adopted a systematic approach. Firstly, I thoroughly studied the documentation provided by Facebook for their Login API, ensuring a deep understanding of authentication flows and security protocols. Implementing OAuth 2.0 authentication ensured secure and reliable login processes. For synchronizing user profile information, I designed an efficient data-fetching mechanism, utilizing Facebook Graph API to retrieve user details such as profile photos and names. This integration streamlined the user experience and ensured up-to-date profile information. Regarding the user interface, I optimized the use of Heroicons by creating a centralized icon management system. This approach facilitated easy access to icons across the platform and enabled consistent styling. Additionally, I employed Next.js's built-in features for efficient rendering and caching, ensuring smooth performance even with increased user activity. Through meticulous planning and implementation, I successfully overcame the challenges and developed a robust Facebook-like platform.",
+          "technologies": "NextJS, TailwindCSS, Facebook Login, Heroicons",
+          "category": "Personal Work",
+          "image": "facebookclone.png",
+          "url": "https://facebook-deploy.vercel.app/",
+          "year": "July 2022"
+        },
+        {
+          "title": "Profiler App",
+          "description": "The Profiler app is a Python-based project developed using the Django framework. This application aims to provide essential functionalities such as displaying user profiles, enabling users to update their information including names and images, and facilitating commenting on other users' profiles. Additionally, it features an admin section with capabilities to add user roles, delete specific or multiple users, and track user comments. The app also incorporates robust authentication and authorization mechanisms inherent to Django, ensuring heightened security. It includes user authentication features such as login and logout functionalities, enhancing the protection of user data and system integrity. Moreover, the application is designed to be mobile-responsive, leveraging Bootstrap for seamless adaptation to various screen sizes and devices.",
+          "struggle": "While developing the Profiler app, I encountered challenges with integrating Django with MySQL as the database backend. Configuring the database settings and ensuring compatibility between Django's ORM and MySQL's database schema posed initial hurdles. Additionally, managing complex relationships and optimizing database queries for efficient data retrieval presented ongoing difficulties. These challenges hindered the smooth development and functionality of the application, impacting its performance and user experience.",
+          "solution": "To address the challenges of integrating Django with MySQL, I employed a systematic approach. Initially, I thoroughly studied the documentation and resources available for configuring Django with MySQL, gaining a deeper understanding of the necessary settings and configurations. Utilizing Django's built-in migration tools, I synchronized the database schema with Django's ORM, ensuring seamless interaction between the application and the MySQL database. Additionally, I optimized database queries by leveraging Django's query optimization techniques and indexing strategies, improving the application's performance and responsiveness. Through meticulous testing and iterative refinement, I successfully overcame the challenges, resulting in a robust Profiler app with Django and MySQL integration.",
+          "technologies": "Python, Django, MySQL, Bootstrap, Pip, Pillow",
+          "category": "Personal Work",
+          "image": "profiler app.png",
+          "url": "https://bareclaw.pythonanywhere.com/users/login",
+          "year": "May 2024"
+        }
+      ],
+      "workProjects": [
+        {
+          "title": "ESG",
+          "description": "The client, a government agency, aimed to develop both frontend and backend components for their project, 'Enterprise SG,' to efficiently deliver services to businesses. The overarching goal was to establish a comprehensive platform to support entrepreneurship, innovation, and economic growth within the business landscape.",
+          "struggle": "I'm stepping into my first job, excited but uncertain, ready to tackle my inaugural project. Then, not long after, I'm handed a surprising promotion: 'Congratulations, you're now our lead frontend developer!' Don't get me wrong, I'm thrilled by the opportunity, but the reality sinks in—I'm still finding my footing. Leading a team while still navigating my own learning curve feels a bit like trying to juggle before I've even learned to catch. It's a lot to take in. And with all this responsibility, there's a nagging worry that I might stumble, not just for the project's sake but for my own career path too.",
+          "solution": "Here's how I approached it: I didn't just lead from the sidelines—I got my hands dirty coding too. My focus? Global stylings. I crafted a cohesive design language that tied our project together, ensuring consistency and polish across every screen. Then there were the components—I made sure they were more than just one-time wonders. I engineered them to be versatile, reusable building blocks, saving time and effort for the team down the line. And when it came to responsiveness, I didn't settle for anything less than pixel-perfect. I fine-tuned our layouts to adapt seamlessly to every screen size, ensuring a smooth experience for every user, whether they were on desktop or mobile. But it didn't stop there. I obsessively fine-tuned user interactions, tweaking every button, every animation, to perfection. Because for me, it's not just about delivering a product—it's about crafting an experience that leaves users wowed at every click. And you know what? Together, these contributions didn't just elevate our project—they laid the foundation for a team that's primed for success.",
+          "technologies": "HTML, SASS, JQuery, JavaScript, SiteCore, ASP.NET MVC, Azure DevOps Services",
+          "category": "Professional Work",
+          "image": "esg.png",
+          "url": "https://www.enterprisesg.gov.sg/",
+          "year": "August 2022"
+        },
+        {
+          "title": "HAN",
+          "description": "The client's objective was to develop a website that serves as a platform to promote the rich history and culture of Singapore. They envisioned creating pages showcasing different facets of Singapore, including historical landmarks, cultural artifacts, and significant locations. The primary goal was to provide users with an immersive experience that educates and engages them with Singapore's heritage and identity.",
+          "struggle": "As the sole frontend developer on this project, I faced a daunting challenge: crafting the entire user interface and experience from scratch. With no team members to share the workload, I carried the weight of translating the client's vision into reality all by myself. Navigating through the complexities of frontend development— from global styling for consistent aesthetics to implementing responsive design for seamless accessibility across devices— was like charting uncharted territory. Additionally, refining the user experience to maximize engagement demanded relentless attention to detail. Balancing these tasks while addressing client feedback and troubleshooting any issues that arose through Jira felt like spinning plates, with the risk of one crashing down at any moment. Despite the pressure, I remained committed to delivering a top-notch product that would meet and exceed the client's expectations, but the journey was undeniably challenging.",
+          "solution": "As the lead frontend developer for this project, I took on the responsibility of translating the client's vision into a functional and visually appealing website. My contributions encompassed various aspects of frontend development, including global styling to ensure consistency across all pages, implementing a responsive design to enhance accessibility across different devices and browsers, and refining the user experience to maximize engagement. Additionally, I actively addressed client feedback and resolved any issues or bugs identified through Jira, ensuring that the website met the client's expectations and requirements effectively. The project achieved resounding success, evidenced by the seamless launch of the website without any major issues or complaints from the client. With a flawless transition to the live environment, the website operates smoothly, delivering an immersive experience to users exploring Singapore's history and culture. The absence of significant problems throughout the project lifecycle, coupled with the client's satisfaction and lack of complaints, underscores the project's success. This accomplishment reflects the collaborative effort of the team and the effectiveness of our approach in meeting the client's goals and expectations with precision and excellence.",
+          "technologies": "HTML, CSS, SASS, JavaScript, ASP.NET MVC, SiteCore, Azure DevOps Services",
+          "category": "Professional Work",
+          "image": "han.png",
+          "url": "https://www.roots.gov.sg/han",
+          "year": "October 2023"
+        },
+        {
+          "title": "ELKO",
+          "description": "Our client, an internal team within our company, initiated a project centered around Digital Asset Management (DAM). The primary goal was to establish a resilient service enabling users to securely store their assets within our platform. The overarching objective was to craft a comprehensive solution that simplifies asset management workflows and improves accessibility for both internal and external users.",
+          "struggle": "While working on this project, I encountered significant challenges in balancing frontend and backend development tasks. Juggling responsibilities across both domains proved daunting, especially considering the complexity of implementing global styling and ensuring responsiveness on the frontend while simultaneously diving into backend development using Node.js and AWS. The lack of clarity on task prioritization and resource allocation exacerbated the situation, leading to delays and inefficiencies in project execution. Additionally, navigating the intricacies of integrating frontend and backend components posed a significant hurdle, as seamless coordination between the two was essential for delivering a cohesive solution aligned with the client's objectives. These challenges threatened to impede progress and compromise the project's success, leaving me feeling overwhelmed and uncertain about meeting deadlines and delivering a high-quality product.",
+          "solution": "In my role as a developer on this project, I contributed extensively to both frontend and backend tasks. On the frontend side, I focused on implementing global styling and ensuring a responsive design throughout the project. This involved creating a visually cohesive user interface and optimizing the user experience across various devices and screen sizes. Additionally, I delved into backend development using technologies like Node.js and AWS to facilitate asset storage and trigger key functionalities. By seamlessly integrating frontend and backend components, I aimed to deliver a cohesive and efficient solution aligned with the client's objectives. The project's success was evident as we successfully launched the DAM service, enabling users to store and manage their assets seamlessly. The transition to the live environment occurred smoothly, with all functionalities operating as intended. Notably, users provided positive feedback, highlighting the platform's effectiveness and suggesting opportunities for future enhancements. The project's ability to meet user needs and garner constructive feedback underscores its success in addressing the client's goals and laying the foundation for continued improvement and innovation.",
+          "technologies": "ReactJS, NodeJS, AWS, AntD, Stripe, Webflow, Azure DevOps Services",
+          "category": "Professional Work",
+          "image": "elko2.png",
+          "url": "https://hello.elko.digital/",
+          "year": "Sept 2023"
+        }
+      ],
+      "projectIcons": [
+        {
+          "HTML": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+        },
+        {
+          "CSS": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+        },
+        {
+          "SASS": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
+        },
+        {
+          "TailwindCSS": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png"
+        },
+        {
+          "Bootstrap": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png"
+        },
+        {
+          "JQuery": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+        },
+        {
+          "JavaScript": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+        },
+        {
+          "ReactJS": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+        },
+        {
+          "AntD": "/images/skills-icon/antd.png"
+        },
+        {
+          "NodeJS": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+        },
+        {
+          "NextJS": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        },
+        {
+          "Stripe": "/images/skills-icon/stripe.png"
+        },
+        {
+          "PHP": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+        },
+        {
+          "Composer": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png"
+        },
+        {
+          "MySQL": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+        },
+        {
+          "Syncfusion": "/images/skills-icon/syncfusion.png"
+        },
+        {
+          "SanityIO": "/images/skills-icon/sanity.png"
+        },
+        {
+          "ASP.NET MVC": "/images/skills-icon/asp.net.png"
+        },
+        {
+          "Python": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png"
+        },
+        {
+          "Django": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png"
+        },
+        {
+          "Pip": "/images/skills-icon/pip.png"
+        },
+        {
+          "Pillow": "/images/skills-icon/pillow.png"
+        },
+        {
+          "Undraw": "/images/skills-icon/undraw.png"
+        },
+        {
+          "MaterializeCSS": "/images/skills-icon/materializecss.png"
+        },
+        {
+          "Material Icons": "/images/skills-icon/materialicon.png"
+        },
+        {
+          "Heroicons": "/images/skills-icon/heroicon.png"
+        },
+        {
+          "Webflow": "/images/skills-icon/webflow.png"
+        },
+        {
+          "Facebook Login": "/images/skills-icon/facebook.png"
+        },
+        {
+          "Netlify": "/images/skills-icon/netlify.png"
+        },
+        {
+          "Vercel": "/images/skills-icon/vercel.png"
+        },
+        {
+          "SiteCore": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sitecore/sitecore.png"
+        },
+        {
+          "AWS": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png"
+        },
+        {
+          "Azure DevOps Services": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/azure/azure.png"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Francis is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to me... I would definitely recommend",
+          "user": "Francis Albert Ilacad"
+        },
+        {
+          "text": "He was able to help me out whenever I needed. Francis takes it all seriously and never stop trying until he finally gets the results he wanted.",
+          "user": "Christian Miraflor"
+        }
+      ]
+    }
+  }
