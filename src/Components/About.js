@@ -58,7 +58,7 @@ const About = () => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} download="Ilacad, Francis Albert - Resume" className="button">
+                <a href={resumeDownload} download="Herrera, Francis Marianne - Resume" className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
