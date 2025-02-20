@@ -33,7 +33,7 @@ const Footer = () => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="FRANCIS" href="https://www.linkedin.com/in/francis-albert-ilacad-3a4111281/">
+              <a title="FRANCIS" href="https://www.linkedin.com/in/herrera-francis-marianne-b7b5b7265">
                 FRANCIS
               </a>
             </li>
